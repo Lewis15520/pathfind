@@ -39,6 +39,11 @@ Firstly, I would like to apologise for how long it has taken to do this test. Th
 
 Secondly, I would like to state that I tried to keep the code down to the bare bones of PHP. I can demonstrate this task in most PHP frameworks (using framework componants) upon request.
 
+### Useage
+Please run the following from the terminal (with the pwd as the project path) `php .\EntryPoint.php`.
+
+Within `.\EntryPoint.php` there is a `$map` variable and `$start` and `$finish` variables. These can be changed to allow different variations to be challenged.
+
 ### What I'm Pleased With
 I'm pleased with multiple things about the test. I found the concept of the A* algorithem interesting and looked at what other competitors there were out there. As for my test, I refactored this quite a bit, starting out with just one function and refactoring it out to a class with multiple functions in which I could test against. I also like how easy it is to interpret what's going on within the `find` function.
 
